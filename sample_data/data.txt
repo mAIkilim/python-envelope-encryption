@@ -1,0 +1,4 @@
+Nama,Nilai
+Andi,85
+Budi,90
+Citra,88
